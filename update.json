@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
-  "download": "https://github.com/stefgrub/finanzapp-updates/releases/tag/v1.7/FinanzApp-1.7.msi",
+  "version": "1.8",
+  "download": "https://github.com/stefgrub/finanzapp-updates/releases/tag/v1.7/FinanzApp-1.8.msi",
   "changelog": "✔ Budget-Check überarbeitet\n✔ Diagramme verbessert\n✔ Kaufhilfe aktualisiert\n✔ Auto-Update Fehler behoben"
 }
