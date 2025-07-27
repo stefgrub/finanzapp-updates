@@ -1,1 +1,1 @@
-"# Update-Repo fr FinanzApp" 
+"# Update-Repo fuer FinanzApp" 
